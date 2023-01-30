@@ -48,3 +48,4 @@ class SearchEngine {
         Server.start(port, new Handler());
     }
 }
+}
